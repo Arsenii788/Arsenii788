@@ -24,3 +24,5 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJlYmt3ZW13eGJnZWU2ZHVrczBjNnVuYTNzaDN4YWphOGd5Mnd5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vLlpbDafjgHystuJ0a/giphy.gif" width="400" height="400"/>
 </div>
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
