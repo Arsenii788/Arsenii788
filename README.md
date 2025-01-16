@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW44OTBkMWRvZm45dGtoZDNrOWd6aXR0ZGY3Z3NkcmJjaGxrZWZnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif]" width="100"/>
+</div>
 <!--
 **Arsenii788/Arsenii788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
