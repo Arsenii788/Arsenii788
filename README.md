@@ -1,4 +1,3 @@
-## Hi there 👋
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW44OTBkMWRvZm45dGtoZDNrOWd6aXR0ZGY3Z3NkcmJjaGxrZWZnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150"/>
 </div>
@@ -21,4 +20,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJlYmt3ZW13eGJnZWU2ZHVrczBjNnVuYTNzaDN4YWphOGd5Mnd5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vLlpbDafjgHystuJ0a/giphy.gif" width="600" height="300"/>
 </div>
